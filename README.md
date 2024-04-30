@@ -1,2 +1,2 @@
 # bookbot
-Bookbot repository
+BookBot is my first git project!
